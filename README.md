@@ -6,3 +6,6 @@ The goal of the project is to design a user friendly website that provides stude
 
 Problem Statement: 
 In the morning when you are running to class do you ever have a hard time finding parking? You circle all the lots on campus only to find you should have just gone to west lot immediately. Not only are you burdened with the stress of finding parking, but also the delay causes you to be late to your classes. 
+
+Team Memebers: Julia Cassella, Avery Vandenberg, Saul Garza, Ethan Romney
+
